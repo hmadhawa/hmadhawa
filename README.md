@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Currently a 1st year undergradute and a Project Manager
 - 📫 How to reach me: hmadhawa1999@gmail.com
 
-<!-- - 😄 Pronouns: ... -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmadhawa&hide=css,php,html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmadhawa&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmadhawa&hide=css,php,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmadhawa&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
