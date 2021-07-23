@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hmadhawa1999@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmadhawa&hide=css,php,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmadhawa&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmadhawa&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
